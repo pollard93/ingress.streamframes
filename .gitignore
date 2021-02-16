@@ -1,0 +1,4 @@
+.DS_Store
+/data/hls/*
+uploader/test/vod/test.mp4
+uploader/test/vod/test.mkv
