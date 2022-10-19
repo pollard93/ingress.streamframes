@@ -5,5 +5,5 @@
 ## Push to docker
 
 ```
-docker push registry.streamframes.com/ingress.streamframes:1.0.0
+docker push streamframesingress/ingress.streamframes:1.0.0
 ```
